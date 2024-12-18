@@ -76,7 +76,7 @@
 
 ### 🌐 Encuéntrame en:
 <p align="center">
-  <a href="www.linkedin.com/in/abimael-huerta-perez-434515311" target="_blank">
+  <a href="https://www.linkedin.com/in/abimael-huerta-perez-434515311/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://instagram.com/thbishgdo" target="_blank">
