@@ -1,54 +1,94 @@
-<h1 align="center">👋 ¡Hola, soy [Tu Nombre]! 🚀</h1>
+<h1 align="center">{🧑‍💻📱} ¡Hola, soy Abimael Huerta Pérez! </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/💻-Desarrollador_Fullstack-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌐-Proyectos_Web-00bfff?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎮-Desarrollo_3D-ff69b4?style=flat-square" />
+    <img src="https://img.shields.io/badge/🎓-Estudiante_de_Ingeniería_Informática-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/💻-Desarrollador_Frontend_Móvil-00bfff?style=flat-square" />
+  
+
+</p>
+
+<p align=center>
+<a href="mailto:huertabimaelp27@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:   huertabimaelp27@gmail.com -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+  
 </p>
 
 ---
 
 ### 🌟 Sobre mí
-¡Hola! Soy un desarrollador apasionado por la tecnología y el diseño, enfocado en crear aplicaciones eficientes, amigables y modernas. Disfruto trabajar en proyectos innovadores, aprender nuevas herramientas y compartir conocimientos con la comunidad. 
+¡Hola! Soy estudiante de ultimo semestre de "Ingenieria Informatica", actualmente en proceso de titulación.
 
-- 🛠️ Tecnologías que domino: **Flutter**, **Angular**, **Unity**, **Autodesk Revit**.
-- 🎯 Intereses: Simulación 3D, automatización de procesos, y desarrollo web.
-- 🌱 Actualmente aprendiendo: **Inteligencia Artificial aplicada a UI/UX**.
+- Apasionado desarrollador FrontEnd para aplicaciones Moviles
+- Motivado para aprender constantemente y aplicar mis conocimientos en proyectos
+- Dispuesto a conocer y aprender diversas Tecnologias
+
 
 ---
 
-### 🚀 Tecnologías y herramientas
+
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Lenguajes de programación**:
+    
+    ![](https://skillicons.dev/icons?i=java,ts)
+ 
+
+<br>   
+    
+- **Front-End Development**:
+
+     ![](https://skillicons.dev/icons?i=angular,html,css,sass)
+<br> 
+
+- **Mobile App Development**:
+
+     ![](https://skillicons.dev/icons?i=androidstudio,flutter,dart,kotlin,ionic)
+
+<br>
+
+- **DataBase**
+  
+     ![](https://skillicons.dev/icons?i=mysql,sqlite)
+<br>
+
+- **Otros**:
+
+  ![](https://skillicons.dev/icons?i=vscode,powershell,postman,npm,linux,git,bash)
+
+
+</p>
+
+<br>
+
+-----
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+
+<br>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimaelhuerta&layout=compact&theme=radical" width="400" />
 </div>
-
----
-
-### 📊 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" width="400" />
-</div>
-
----
 
 ### 🌐 Encuéntrame en:
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" />
+  <a href="www.linkedin.com/in/abimael-huerta-perez-434515311" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/tu_usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" />
+  <a href="https://instagram.com/thbishgdo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://tu-portafolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-24292E?logo=githubpages&logoColor=white&style=flat-square" />
+  <a href="mailto:huertabimaelp27@gmai.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+<br>
 
-
-
-<p align="center">
-  🚀✨ Creando un futuro con código ✨🚀
+<p align=center>
+  {"Construyendo el futuro, una línea de código a la vez."}🍔
 </p>
+
